@@ -1,0 +1,3 @@
+IP Address,Failed Attempts,Successful Logins,Severity,Correlated Event
+192.0.2.15,5,1,CRITICAL,YES
+198.51.100.24,2,0,LOW,NO
