@@ -1,1 +1,8 @@
-
+Oct 05 09:10:01 server sshd[1234]: Failed password for invalid user admin from 192.0.2.15 port 52433 ssh2
+Oct 05 09:10:12 server sshd[1235]: Failed password for root from 192.0.2.15 port 52434 ssh2
+Oct 05 09:10:25 server sshd[1236]: Failed password for admin from 192.0.2.15 port 52435 ssh2
+Oct 05 09:10:38 server sshd[1237]: Failed password for root from 192.0.2.15 port 52436 ssh2
+Oct 05 09:10:50 server sshd[1238]: Failed password for test from 192.0.2.15 port 52437 ssh2
+Oct 05 09:11:05 server sshd[1239]: Failed password for admin from 198.51.100.24 port 51001 ssh2
+Oct 05 09:12:15 server sshd[1240]: Accepted password for faizah from 198.51.100.10 port 49120 ssh2
+Oct 05 09:13:21 server sshd[1241]: Failed password for guest from 198.51.100.24 port 51002 ssh2
